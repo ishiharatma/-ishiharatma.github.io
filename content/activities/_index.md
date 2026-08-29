@@ -38,7 +38,10 @@ showTableOfContents: false
 
 ## Dev.to
 <!-- devdotto start -->
-- Aug 17 - [AWS CDK 100 Drill Exercises #009: CloudWatch Logs S3 Archive — Comparing 3 Log Archive Patterns in One Repository](https://dev.to/issy929/aws-cdk-100-drill-exercises-009-cloudwatch-logs-s3-archive-comparing-3-log-archive-patterns-3ia6)
+- Aug 29 - [AWS CDK 100 Drill Exercises #013: CloudFront S3 Static Website — Serving a Private Bucket over HTTPS with OAC and Cross-Region WAF](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-013-cloudfront-s3-static-website-serving-a-private-bucket-over-413g)
+- Aug 29 - [AWS CDK 100 Drill Exercises #012: S3 Static Web Site — Getting a "Public" Bucket Policy Past Block Public Access](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-012-s3-static-web-site-getting-a-public-bucket-policy-past-block-3b18)
+- Aug 29 - [AWS CDK 100 Drill Exercises #011: A CodePipeline for CloudFront & S3 — and a self-reference bug](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-011-a-codepipeline-for-cloudfront-s3-and-a-self-reference-bug-22ml)
+- Aug 17 - [AWS CDK 100 Drill Exercises #009: CloudWatch Logs S3 Archive — Comparing 3 Log Archive Patterns in One Repository](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-009-cloudwatch-logs-s3-archive-comparing-3-log-archive-patterns-3ia6)
 - Aug 17 - [AWS CDK 100 Drill Exercises #010: Budget Alerts & Cost Anomaly Detection — 5 FinOps Alerting Patterns in CDK](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-010-budget-alerts-cost-anomaly-detection-5-finops-alerting-23g2)
 - Aug 17 - [AWS CDK 100 Drill Exercises #009: CloudWatch Logs S3 Archive — Comparing 3 Log Archive Patterns in One Repository](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-009-cloudwatch-logs-s3-archive-comparing-3-log-archive-patterns-42g0)
 - Jul 28 - [AWS CDK 100 Drill Exercises #008: CloudFront VPC Origin — Reaching an Internal ALB Directly, and Designing an Incident-Response Escape Hatch](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-008-cloudfront-vpc-origin-reaching-an-internal-alb-directly-and-1cd1)
@@ -47,9 +50,6 @@ showTableOfContents: false
 - May 18 - [CTF Event Report: Security-JAWS 10th Anniversary Day 2 — All 27 AWS Security Challenges Solved](https://dev.to/aws-builders/ctf-event-report-security-jaws-10th-anniversary-day-2-all-27-aws-security-challenges-solved-51c3)
 - Jan 26 - [AWS CDK 100 Drill Exercises #007: SQS-Lambda-Firehose —— Building Event-Driven Data Pipelines](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-007-sqs-lambda-firehose-building-event-driven-data-pipelines-2ki8)
 - Dec 31 - [AWS CDK 100 Drill Exercises #006: VPC Peering - Cross-Account Network Integration and DNS Resolution Automation](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-006-vpc-peering-cross-account-network-integration-and-dns-546)
-- Dec 26 - [AWS CDK 100 Drill Exercises #005: CDK Parameters —— Managing Parameters with TypeScript vs cdk.json](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-005-cdk-parameters-managing-parameters-with-typescript-vs-cdkjson-12b9)
-- Dec 24 - [AWS CDK 100 Drill Exercises #004: NAT Instance V2 — Cost-Effective NAT with Automated Scheduling and Patch Management](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-004-nat-instance-v2-cost-effective-nat-with-automated-scheduling-49li)
-- Dec 21 - [AWS CDK 100 Drill Exercises #003: VPC Basics — From Network Configuration to Security](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-003-vpc-basics-from-network-configuration-to-security-4a43)
 <!-- devdotto end -->
 
 ## GitHub
