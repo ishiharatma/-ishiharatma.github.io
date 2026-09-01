@@ -6,6 +6,9 @@ showTableOfContents: false
 ## Zenn
 
 <!-- zenn start -->
+- Sep 01 - [【初心者向け】AWS Cost Explorer 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cost-explorer-overview)
+- Sep 01 - [【初心者向け】Amazon Cognito 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cognito-overview)
+- Sep 01 - [【中級者向け】Amazon EC2 応用！完全ガイド - Nitro・キャパシティ確保・Auto Scaling](https://zenn.dev/issy/articles/zenn-ec2-advanced)
 - Jul 07 - [【初心者向け】AWS IAM Identiry Center 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-iam-identity-center-overview)
 - Jul 07 - [【初心者向け】Amazon EC2 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-ec2-overview)
 - Jul 04 - [【初心者向け】Amazon VPC Lattice 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-vpc-lattice-overview)
@@ -23,9 +26,6 @@ showTableOfContents: false
 - Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(1/6) 概要](https://zenn.dev/issy/articles/zenn-team-01-overview)
 - Dec 01 - [【初心者向け】AWS Database Migration Service(DMS) 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-dms-overview)
 - Sep 10 - [【アップデート】CloudFrontの署名付きURLでECDSA鍵を利用可能に！──実測で91%高速化、55%のURL短縮効果](https://zenn.dev/issy/articles/update-aws-cloudfront-ecdsa-signed-urls)
-- Sep 02 - [【初心者向け】Amazon Q Developer 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-q-overview)
-- Feb 25 - [【実例】AWS CDK で CloudFront+VPCオリジン+プライベートALBを一撃で構築する（TypeScriptコード付き）](https://zenn.dev/issy/articles/aws-cloudfront-vpcorigin-alb)
-- Feb 02 - [【読書会】「AWSではじめる生成AI」12章：生成AIのマネージドサービス Amazon Bedrock](https://zenn.dev/issy/articles/aws-generative-ai-on-aws-12)
 <!-- zenn end -->
 
 ## Qiita
